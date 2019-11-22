@@ -1,5 +1,4 @@
-IEEEK <= IEEE 754 + EEEK
-Gotone <= Goto + One
+# GOTO-ONE - A language on a number line
 
 ## Number System
 
